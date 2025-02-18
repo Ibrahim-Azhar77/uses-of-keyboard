@@ -12,5 +12,3 @@ Uses of a Keyboard
 4️⃣ System Navigation: Use shortcut keys for faster access to apps and settings. ⚡
 
 5️⃣ Media & Volume Control: Play, pause, or adjust volume without touching your mouse. 🎵
-
-Want to learn more? Check out the full guide here! 🔗 https://computerguideonline.com/uses-of-keyboard/
